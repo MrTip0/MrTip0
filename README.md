@@ -1,3 +1,3 @@
 # Hi 👋, Sorry I'm Coding 🧑🏽🧑🏼‍💻
 
-![coding](assets/catcoding.gif)
+![coding](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
