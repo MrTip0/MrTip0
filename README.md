@@ -10,6 +10,4 @@
 
 # Watch this projects
 
-[![weather](https://github-readme-stats.vercel.app/api/pin/?username=MrTip0&repo=weather)](https://github.com/MrTip0/weather)
-
-[![surveys](https://github-readme-stats.vercel.app/api/pin/?username=MrTip0&repo=surveys)](https://github.com/MrTip0/surveys)
+[![weather](https://github-readme-stats.vercel.app/api/pin/?username=MrTip0&repo=weather)](https://github.com/MrTip0/weather) [![surveys](https://github-readme-stats.vercel.app/api/pin/?username=MrTip0&repo=surveys)](https://github.com/MrTip0/surveys)
